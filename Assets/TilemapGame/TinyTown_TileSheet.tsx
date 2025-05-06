@@ -179,6 +179,17 @@
    <object id="1" x="0" y="0" width="16" height="16"/>
   </objectgroup>
  </tile>
+ <tile id="105">
+  <properties>
+   <property name="unity:IsTrigger" value="true"/>
+   <property name="unity:layer" value="Hazard"/>
+  </properties>
+  <objectgroup draworder="index" id="3">
+   <object id="5" x="0.0852765" y="5.03131" width="10.7022" height="10.8728">
+    <ellipse/>
+   </object>
+  </objectgroup>
+ </tile>
  <tile id="108">
   <objectgroup draworder="index" id="2">
    <object id="1" x="0" y="0" width="4.99933" height="16"/>
