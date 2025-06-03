@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "C:/Users/49162209/Documents/comp1151prac-tilemapgame-maxtile/Assets/TilemapGame/Large Box.tmx",
+    "activeFile": "C:/Users/49162209/Documents/comp1151prac-tilemapgame-maxtile/Assets/TilemapGame/Castle Front.tmx",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
@@ -13,10 +13,10 @@
             "scaleInEditor": 1
         },
         "C:/Users/49162209/Documents/comp1151prac-tilemapgame-maxtile/Assets/TilemapGame/Castle Front.tmx": {
-            "scale": 4,
+            "scale": 3,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 338.625,
+                "x": 372.8333333333333,
                 "y": 21
             }
         },
@@ -50,8 +50,8 @@
     "project": "gameTilemap.tiled-project",
     "recentFiles": [
         "C:/Users/49162209/Documents/comp1151prac-tilemapgame-maxtile/Assets/TilemapGame/TinyTown_TileSheet.tsx",
-        "C:/Users/49162209/Documents/comp1151prac-tilemapgame-maxtile/Assets/TilemapGame/Castle Front.tmx",
         "C:/Users/49162209/Documents/comp1151prac-tilemapgame-maxtile/Assets/TilemapGame/Large Box.tmx",
+        "C:/Users/49162209/Documents/comp1151prac-tilemapgame-maxtile/Assets/TilemapGame/Castle Front.tmx",
         "C:/Users/49162209/Documents/comp1151-game-prototype-maxtile/COMP1151 Game Prototype/Assets/Art/Tiled/TilemapGame/Prototype_Tilesheet.tsx",
         "C:/Users/49162209/Documents/comp1151prac-tilemapgame-maxtile/Assets/TilemapGame/TinyTown_Tilesheet.tsx"
     ],
